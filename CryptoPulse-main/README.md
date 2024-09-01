@@ -4,7 +4,7 @@
  
 Technologies used : React.js, Chart.js, Material UI, Google Firebase , html,css,Javascript
 
-Developed by: Shreya Bharti and Ekeshwar Aditya in 2023.
+Developed by: Deepika and Nidhish in 2024.
 
 Our web application is a comprehensive cryptocurrency tracking platform that utilizes the power of the CoinGecko API integration to provide users with real-time cryptocurrency prices, enabling them to make informed investment decisions effortlessly. With a user-friendly interface and robust features, our application caters to both novice and experienced cryptocurrency enthusiasts.
 
