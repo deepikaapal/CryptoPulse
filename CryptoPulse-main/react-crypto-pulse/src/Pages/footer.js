@@ -9,7 +9,7 @@ function Footer()
             paddingRight: 30,
             textAlign: "right"
         }}>
-            Developed by Ekeshwar and Shreya ©
+            Developed by Deepika and Nidhish ©
             
         </div>
     );
